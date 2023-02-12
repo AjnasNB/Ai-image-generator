@@ -3,7 +3,7 @@ import './App.css';
 import {Button,TextField} from "@mui/material"
 import {Configuration,OpenAIApi} from "openai"
 const configuration = new Configuration( param, {
-    apiKey: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
+    apiKey:your open ai api key
 
 });
 function generatePicture(){
